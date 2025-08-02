@@ -1,0 +1,105 @@
+[
+    {
+        "id": "4",
+        "Title": "Systems Check Project - NestJS & Next.js Combined",
+        "Description": "A fully working system combining backend (NestJS) and frontend (Next.js) for internal tool verification. Built reusable modules and UI components while testing the integration and real-world setup.",
+        "Img": "/checking.png",
+        "Link": "https://work-session-ui.vercel.app/",
+        "Github": "Private",
+        "TechStack": [
+            "NestJS",
+            "Next.js",
+            "Tailwind",
+            "Mongoos",
+            "JWT"
+        ],
+        "Features": [
+            "Reusable auth module in NestJS",
+            "Next.js dynamic routing + API integration",
+            "Tailwind-based UI with component reuse",
+            "Basic access control with roles",
+            "Environment-based configuration support"
+        ]
+    },
+    {
+        "id": "2",
+        "Title": "Learned Today - NestJS & Next.js",
+        "Description": "🎓 Learned Today – My personal learning tracker 📌 Built with Nest, Next.js, MongoDB ,and integrated with Gemini AI 📊 Visualized with charts🔗 Tags, insights, and recommendations for daily learning💡 Automatically suggests resources like YouTube videos, articles & more based on your interests I built this app to log what I learn each day, reflect on my progress, and get AI-powered recommendations to go deeper.it's Just beta version For testing ",
+        "Img": "/learned-today.png",
+        "Link": "https://learned-today-frontend.vercel.app/",
+        "Github": "Private",
+        "TechStack": [
+            "NestJS",
+            "Next.js",
+            "Typescript",
+            "Mongo DB"
+        ],
+        "Features": [
+            "Built modular NestJS API structure",
+            "Connected Next.js frontend to Nest backend",
+            "Implemented SSR with API hydration",
+            "Explored DTOs, Guards, Interceptors",
+            "Used Mongoo with Mongoose"
+        ]
+    },
+    {
+        "id": "1",
+        "Title": "Fisrt Step (KSA)",
+        "Description": "A middleware platform connecting nurseries and parents in Saudi Arabia. It supports child enrollment, center registration, multiple branches, pricing logic, and communication between parents and education centers.",
+        "Img": "/first-step.jpeg",
+        "Link": "https://firststep-app.com/en",
+        "Github": "Private",
+        "TechStack": [
+            "Laravel 11",
+            "MySQL",
+            "Pusher",   
+            "Clean Architecture."
+        ],
+        "Features": [
+            "Center registration and branch support",
+            "Child enrollment with medical/disease fields",
+            "Branch-specific pricing and packages",
+            "Parent-center chat with notifications",
+            "Reports and dashboards for centers"
+        ]
+    },
+    {
+        "id": "3",
+        "Title": "Mock API Platform with Laravel & React",
+        "Description": "A simulated API and frontend environment built for testing API consumption and UI flows using Laravel (REST API) and React. Used for prototyping projects and frontend testing before real backend integration.",
+        "Img": "/laravel12.jpg",
+        "Link": "https://mockapi.example.com",
+        "Github": "https://github.com/SalahAshawy/mock-factory-api",
+        "TechStack": [
+            "Laravel 12",
+            "React",
+            "Tailwind",
+            "Vite"
+        ],
+        "Features": [
+            "Mocked user endpoints and auth flows",
+            "React components consuming Laravel APIs",
+            "Dynamic form handling with validations",
+            "CRUD UI with backend simulation",
+            "Token-based access logic",
+            "Tokenization system to Apis",
+            "Small Saas"
+        ]
+    },
+    {
+    "id": "6",
+    "Title": "Tuba Healthcare & Medical Insurance Portal",
+    "Description": "A scalable medical insurance management system for healthcare providers and companies.",
+    "Img": "/tuba.png",
+    "Link": "https://trytuba.com",
+    "Github": "Private",
+    "TechStack": ["Laravel", "React", "Vite", "Microfrontend", "Tailwind","socketio"],
+    "Features": [
+      "Medical Claim Submissions and Approvals",
+      "Employee Benefit Verification",
+      "Dynamic Provider Dashboards",
+      "Microfrontend Architecture for Scalability",
+      "Fast UI with Vite + React"
+    ]
+  }
+]
